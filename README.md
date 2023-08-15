@@ -1,1 +1,1 @@
-[Demo](https://github.com/sn-khan03/my_portfolio.git)
+[Demo]( https://sn-khan03.github.io/my_portfolio/)
